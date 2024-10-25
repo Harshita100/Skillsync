@@ -1,28 +1,16 @@
-# AI & ML Projects
-
-Welcome to the AI & ML Projects repository! This repository showcases my work in Artificial Intelligence and Machine Learning, highlighting my passion for developing innovative solutions to real-world problems.
+# Skillsync
+This project represents a collaborative initiative focused on advancing the field of Artificial Intelligence and Machine Learning. Our team is committed to developing robust solutions that address pressing business challenges and enhance operational efficiency. By leveraging cutting-edge technologies and data-driven insights, we aim to deliver innovative applications that drive value and foster competitive advantage in the marketplace.
 
 ## Table of Contents
 
 - [About](#about)
-- [Projects](#projects)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## About
 
-with this project, we aim to leverage AI technology to create impactful solutions that improve lives and enhance efficiency.
-
-## Projects
-
-1. **Safety Monitoring System**
-   - Description: A project aimed at monitoring safety hazards in various environments, ensuring compliance with safety standards.
-   - Technologies: Python, OpenCV, TensorFlow
-
-2. **Personalized Learning Platform**
-   - Description: An AI-driven application that tailors learning experiences based on user preferences and performance.
-   - Technologies: JavaScript, React, Node.js
+With this project, we aim to leverage AI technology to create impactful solutions that improve lives and enhance efficiency.
 
 ## Technologies Used
 
