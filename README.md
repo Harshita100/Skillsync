@@ -10,7 +10,7 @@ This project represents a collaborative initiative focused on advancing the fiel
 
 ## About
 
-With this project, we aim to leverage AI technology to create impactful solutions that improve lives and enhance efficiency.
+This project uses Retrieval-Augmented Generation (RAG) model, aimed at enhancing the capabilities of natural language processing. Our team combines expertise in machine learning, data retrieval, and generative models to create a solution that effectively retrieves relevant information and generates coherent, contextually appropriate responses. By integrating state-of-the-art techniques, we strive to improve information accuracy and user interaction, demonstrating the potential of RAG models in various applications, from customer support to content creation.
 
 ## Technologies Used
 
